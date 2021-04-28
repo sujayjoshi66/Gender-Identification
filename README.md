@@ -9,4 +9,4 @@ The image **'PCA_trials'** shows a graph (No. of components vs Explained Varianc
 
 In order to run the project
 1) Make Sure all the files are in one single folder.
-2) Open the integration_with_model file and provide the input image along with the image mode ('RGB' or'BGR') as  parameters to the integrate function.
+2) Open the integration_with_model file and provide the input image along with the image mode ('RGB' or'BGR') as  parameters to the **"integrate"** function.
